@@ -2,7 +2,7 @@
 
 - https://sleepy-brattain-d7efd2.netlify.app/
 
-- https://yhekim.github.io/To-Do-App-JS/
+- https://yhekim.github.io/Find-The-Number-Game-JS/
 
 ## Description
 Project aims to create find the number game (between 0 to 100).
@@ -80,7 +80,7 @@ If it is equal terminate the app and congrats user.
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
 
-![gif](https://raw.githubusercontent.com/yhekim/To-Do-App-JS/main/To_Do_App_JS.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Find-The-Number-Game-JS/main/find%20the%20number.gif)
 
 ## Happy coding 💪
 

@@ -7,7 +7,7 @@ const output = document.getElementById('output');
 
 
 const randomNumber = Math.floor(Math.random() * 100);
-console.log(randomNumber);
+
 var counter = 0;
 
 
