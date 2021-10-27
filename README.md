@@ -1,8 +1,8 @@
 # Project-001 : Find the Number Game (JS-01)
 
-- https://sleepy-brattain-d7efd2.netlify.app/
-
 - https://yhekim.github.io/Find-The-Number-Game-JS/
+
+- https://admiring-almeida-55bd45.netlify.app
 
 ## Description
 Project aims to create find the number game (between 0 to 100).
