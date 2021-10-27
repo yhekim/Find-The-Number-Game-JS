@@ -7,6 +7,8 @@
 ## Description
 Project aims to create find the number game (between 0 to 100).
 
+![gif](https://raw.githubusercontent.com/yhekim/Find-The-Number-Game-JS/main/find%20the%20number.gif)
+
 ## Problem Statement
 
 - Your company has recently started on a project that aims to create a find the number game. So you and your colleagues have started to work on the project.
@@ -80,7 +82,7 @@ If it is equal terminate the app and congrats user.
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
 
-![gif](https://raw.githubusercontent.com/yhekim/Find-The-Number-Game-JS/main/find%20the%20number.gif)
+
 
 ## Happy coding 💪
 
